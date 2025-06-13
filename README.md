@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=govindjangid&label=Profile%20views&color=0e75b6&style=flat" alt="govindjangid" />
+  <img src="https://komarev.com/ghpvc/?username=govindjangid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://count.getloli.com/get/@govindjangid?theme=moebooru" alt="Visitor Counter" />
   <img src="https://img.shields.io/github/followers/govindjangid?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
@@ -14,11 +15,11 @@
 
 ### ✨ **About Me**
 
-- 🎓 B.Tech in Computer Science @ Arya Engineering College
-- 💻 Frontend enthusiast with solid basics in C & C++
-- 🌱 Currently learning Backend Development (Node.js, Express)
-- 🏏 Cricket is my lifeline
-- 💫 Fun fact: I love turning ideas into web projects!
+- 🎓 B.Tech in Computer Science @ Arya College of engineering and it 
+- 💻 Frontend enthusiast | Revising C, C++ for solid fundamentals  
+- 🌱 Currently learning Backend (Node.js, Express)  
+- 🏏 Cricket is my heartbeat!  
+- 💖 **Special thanks to my special one — your support keeps me going! ❤️**
 
 ---
 
@@ -75,5 +76,5 @@
 ---
 
 <p align="center">
-  ✨ *“Consistency is the key to mastery.”* ✨
+  🌟 *“Consistency and gratitude fuel growth.”* 🌟
 </p>
