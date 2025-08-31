@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Govind Jangid</h1>
-<h3 align="center">🚀 B.Tech CSE | Frontend Developer | C Programmer | Cricket Enthusiast 🏏</h3>
+<h2 align="center">🚀 B.Tech CSE | Frontend Developer | C Programmer | Cricket Enthusiast 🏏</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
