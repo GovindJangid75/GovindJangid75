@@ -399,51 +399,25 @@ Classic browser-based snake game built with vanilla JavaScript and HTML Canvas.
 - Community building
 
 </details>
-
 <details>
-<summary><b>🔸 Campus Ambassador @ GirlScript Summer of Code (GSSoC'25)</b> <i>(Jun 2025 - Oct 2025)</i></summary>
+<summary><b>🔸 Campus Ambassador – GirlScript Summer of Code (GSSoC'25)</b> <i>(Jun 2025 – Oct 2025)</i></summary>
 <br>
 
-**Leadership Role - Student Outreach & Event Management**
+**Volunteer / Outreach Role**
 
-<img align="right" width="150" src="https://img.shields.io/badge/Ambassador-FFD700?style=for-the-badge&logo=medal&logoColor=black"/>
+- Actively followed GSSoC announcements and guidelines  
+- Shared program-related information within personal networks  
+- Encouraged peers to explore open-source opportunities  
+- Learned about open-source communities and contribution workflow  
+- Participated in ambassador discussions and online sessions  
 
-**📋 Responsibilities & Leadership Activities:**
-
-- 🎤 **Event Organization:**
-  - Organized 5+ technical workshops and coding sessions
-  - Conducted Git & GitHub bootcamps for beginners
-  - Led hackathon preparation sessions
-  - Hosted webinars on open-source contributions
-- 💡 **Promotion & Outreach:**
-  - Promoted open-source culture on campus
-  - Increased student participation by 300%
-  - Created awareness about GSSoC program
-  - Recruited 100+ students for open-source
-- 🎓 **Student Engagement:**
-  - Strengthened technical community on campus
-  - Facilitated peer-to-peer learning
-  - Created study groups for collaborative learning
-  - Provided career guidance to juniors
-- 📈 **Program Management:**
-  - Coordinated with GSSoC core team
-  - Managed event logistics and schedules
-  - Tracked participant progress and engagement
-  - Generated reports on campus activities
-
-**🏆 Achievements:**
-- Successfully organized 5+ major technical events
-- Reached 500+ students through outreach programs
-- Built active tech community with 150+ members
-- Achieved 90%+ satisfaction rating from participants
-
-**💡 Skills Developed:**
-- Event planning and management
-- Public speaking and presentation
-- Team leadership and coordination
-- Marketing and community outreach
+**Skills Gained:**
+- Communication
+- Basic community engagement
+- Understanding of open-source programs
 
 </details>
+
 
 ---
 
@@ -1205,7 +1179,7 @@ console.log("Thanks for visiting my profile! Let's connect and build amazing thi
 
 <br>
 
-**© 2025 Govind Jangid | All Rights Reserved**
+**© 2026 Govind Jangid | All Rights Reserved**
 
 <br>
 
