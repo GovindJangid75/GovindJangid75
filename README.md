@@ -202,12 +202,16 @@ A full-featured **healthcare web application** designed to streamline blood dona
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GovindJangid75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindJangid75&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GovindJangid75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&card_width=400" width="48%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindJangid75&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&card_width=400" width="48%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=GovindJangid75&theme=tokyonight&hide_border=true" width="70%"/>
+> 📊 *If stats cards don't load, [click here to view GitHub profile directly](https://github.com/GovindJangid75)*
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=GovindJangid75&theme=tokyonight&hide_border=true&border_radius=10&card_width=600" width="70%"/>
 
 <br/>
 
