@@ -6,7 +6,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=👋+Hey+there!+I'm+Govind+Jangid;Full+Stack+Web+Developer+%F0%9F%9A%80;Open+Source+Contributor+%40+GSSoC'25+🌸;Building+scalable+apps+with+React+%26+Node.js;Passionate+about+AI+%26+Cloud+Technologies;2nd+Year+CSE+%7C+10.0+SGPA+Achiever+🌟" alt="Typing SVG" />
+  <img src=["https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=👋+Hey+there!+I'm+Govind+Jangid;Full+Stack+Web+Developer+%F0%9F%9A%80;Open+Source+Contributor+%40+GSSoC'25+🌸;Building+scalable+apps+with+React+%26+Node.js;Passionate+about+AI+%26+Cloud+Technologies;2nd+Year+CSE+%7C+10.0+SGPA+Achiever+🌟](https://github.com/Aquarius-blake.png?size=60)" alt="Typing SVG" />
 </a>
 
 <br/><br/>
