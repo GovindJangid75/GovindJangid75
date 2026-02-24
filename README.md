@@ -170,8 +170,6 @@
 ### 🩸 Blood Bank Management System
 > *Healthcare platform with donor/patient modules, compatibility logic & inventory management*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GovindJangid75&repo=aceit_college_review&theme=tokyonight&hide_border=true)](https://github.com/GovindJangid75)
-
 A full-featured **healthcare web application** designed to streamline blood donation and management.
 - 🔴 **Donor & Patient Modules** — Separate dashboards for donors and patients
 - 🔴 **Blood Compatibility Logic** — Automated matching of blood groups
@@ -204,16 +202,16 @@ A full-featured **healthcare web application** designed to streamline blood dona
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GovindJangid75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=GovindJangid75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindJangid75&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GovindJangid75&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=GovindJangid75&theme=tokyonight&hide_border=true" width="70%"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GovindJangid75&theme=tokyo-night&hide_border=true&area=true&custom_title=Govind's%20Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GovindJangid75&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
