@@ -215,7 +215,13 @@ A full-featured **healthcare web application** designed to streamline blood dona
 
 <br/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GovindJangid75&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/GovindJangid75)
+**🗣️ Most Used Languages**
+
+![HTML](https://img.shields.io/badge/HTML-40%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-25%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-10%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 <br/>
 
