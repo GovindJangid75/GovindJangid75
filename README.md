@@ -202,20 +202,24 @@ A full-featured **healthcare web application** designed to streamline blood dona
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GovindJangid75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&border_radius=10&card_width=400" width="48%"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindJangid75&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&card_width=400" width="48%"/>
+| 📊 Metric | 🔢 Count |
+|---|---|
+| ⭐ Total Repositories | 19 |
+| 🔥 Total Contributions | 256+ |
+| 📅 Member Since | Sep 2024 |
+| 🌟 Longest Streak | 4 days |
 
 <br/>
 
-> 📊 *If stats cards don't load, [click here to view GitHub profile directly](https://github.com/GovindJangid75)*
+[![GitHub Streak](https://streak-stats.demolab.com?user=GovindJangid75&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=GovindJangid75&theme=tokyonight&hide_border=true&border_radius=10&card_width=600" width="70%"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GovindJangid75&layout=donut&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/GovindJangid75)
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GovindJangid75&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GovindJangid75&theme=tokyo-night&hide_border=true&area=true)](https://github.com/GovindJangid75)
 
 </div>
 
