@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Animated Header Banner -->
@@ -6,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src=["https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=👋+Hey+there!+I'm+Govind+Jangid;Full+Stack+Web+Developer+%F0%9F%9A%80;Open+Source+Contributor+%40+GSSoC'25+🌸;Building+scalable+apps+with+React+%26+Node.js;Passionate+about+AI+%26+Cloud+Technologies;2nd+Year+CSE+%7C+10.0+SGPA+Achiever+🌟](https://github.com/Aquarius-blake.png?size=60)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hey+there%2C+I%27m+Govind+Jangid!;Full+Stack+Web+Developer;Open+Source+Contributor+%40+GSSoC%2725;Building+apps+with+React+%26+Node.js;Passionate+about+AI+%26+Cloud;2nd+Year+CSE+%7C+10.0+SGPA+Achiever" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -37,7 +36,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="320" src="https://camo.githubusercontent.com/2309b1c7c4734ac6d8ffdb27fd8df7fb79f3f5c3e6d00c2f4e4f6e77cacc5f5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6769706879736f70656e796f75616c656e76656c6f7065722f67697068792e676966" alt="coding gif"/>
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="coding gif"/>
 
 ```yaml
 👤 name       : Govind Jangid
