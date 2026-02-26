@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/govindjangid75" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:govindjangidt@gmail.com">
+<a href="govindjangidt@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://govind-jangid.netlify.app/" target="_blank">
