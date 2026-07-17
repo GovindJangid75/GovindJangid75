@@ -42,7 +42,7 @@
 👤 name       : Govind Jangid
 📍 location   : Jaipur, Rajasthan, India 🇮🇳
 🎓 education  : B.Tech CSE @ Arya College of Engineering & IT (RTU)
-📅 year       : 2nd Year  |  Batch: 2024 – Present
+📅 year       : 3nd Year  |  Batch: 2024 – 2028
 🌟 cgpa       : Sem 1 → 8.88  |  Sem 2 → 10.00 (Perfect!) 🎯
 💼 role       : Full Stack Developer
 📞 phone      : +91 9799833516
