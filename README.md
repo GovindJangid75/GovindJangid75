@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Govind%20Jangid&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Contributor&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Govind%20Jangid&fontSize=55&fontAlignY=38&fontColor=ffffff&desc=2x%20Software%20Development%20Intern%20%7C%20Full%20Stack%20Developer%20%7C%20React%20Native&descAlignY=58&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Govind+Jangid;Full+Stack+Developer+(MERN);React+Native+Developer;Building+AI-Powered+Applications;Open+Source+Contributor;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Govind+Jangid;Software+Developer;Full+Stack+Developer+(MERN);React+Native+Developer;AI+Application+Developer;Open+Source+Contributor;Building+Scalable+Web+%26+Mobile+Applications)](https://git.io/typing-svg)
 
 <p>
 <a href="https://github.com/GovindJangid75">
