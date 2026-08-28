@@ -1,18 +1,18 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4F46E5,50:7C3AED,100:06B6D4&text=Govind%20Jangid&fontSize=54&fontAlignY=38&fontColor=ffffff&desc=3x%20Software%20Engineering%20Intern%20%7C%20Full%20Stack%20%26%20AI%20Developer%20%7C%20React%20Native&descAlignY=58&descSize=17"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:7C3AED,50:A855F7,100:EC4899&text=Govind%20Jangid&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=3x%20Software%20Engineering%20Intern%20%7C%20Full%20Stack%20%2B%20AI%20Developer%20%7C%20React%20Native&descAlignY=58&descSize=17"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Govind+Jangid;3x+Software+Engineering+Intern;Full+Stack+Developer+(MERN+%2B+Next.js);React+Native+%26+Mobile+App+Developer;AI+%26+Applied+Machine+Learning+Engineer;Open+Source+Contributor+%26+Hackathon+Builder;Building+Scalable%2C+Intelligent+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Govind+Jangid;3x+Software+Engineering+Intern;Full+Stack+Developer+(MERN+%2B+Next.js);React+Native+%26+Mobile+App+Developer;AI+%26+Applied+Machine+Learning+Engineer;Open+Source+Contributor+%26+Hackathon+Builder;Building+Scalable%2C+Intelligent+Web+%26+Mobile+Apps)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/GovindJangid75">
     <img src="https://img.shields.io/github/followers/GovindJangid75?style=for-the-badge&logo=github&color=7C3AED&labelColor=121826" alt="GitHub Followers"/>
   </a>
   <a href="https://linkedin.com/in/govindjangid75">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121826" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=121826" alt="LinkedIn"/>
   </a>
   <a href="https://govind-jangid.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Live_Site-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=121826" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live_Site-EC4899?style=for-the-badge&logo=netlify&logoColor=white&labelColor=121826" alt="Portfolio"/>
   </a>
   <a href="mailto:govindjangidt@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=121826" alt="Email"/>
@@ -20,11 +20,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-3x_Intern-blue?style=flat-square&logo=briefcase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Contributions-598+_in_2026-brightgreen?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Applied_AI-8A2BE2?style=flat-square&logo=target" />
-  <img src="https://img.shields.io/badge/Stack-MERN_%7C_React_Native_%7C_FastAPI_%7C_Next.js-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Jaipur%2C_India_%F0%9F%87%AE%F0%9F%87%B3-orange?style=flat-square&logo=google-maps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience-3x_Intern-7C3AED?style=flat-square&logo=briefcase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Contributions-600+_in_2026-EC4899?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_Applied_AI-8B5CF6?style=flat-square&logo=target" />
+  <img src="https://img.shields.io/badge/Stack-MERN_%7C_React_Native_%7C_FastAPI_%7C_Next.js-10B981?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Jaipur%2C_India_%F0%9F%87%AE%F0%9F%87%B3-F59E0B?style=flat-square&logo=google-maps&logoColor=white" />
 </p>
 
 </div>
@@ -41,7 +41,7 @@ From engineering high-throughput on-premise NLP screening tools and Reinforcemen
 Name:        Govind Jangid
 Role:        Full Stack Developer · Mobile App Developer · AI Engineer
 Experience:  3x Software Engineering Intern (IOTA, Amoni Tech, Infosys Springboard)
-Activity:    598+ Contributions in 2026 (Active Builder)
+Activity:    600+ Contributions in 2026 (Active Open Source Builder)
 Education:   B.Tech in Computer Science & Engineering
 Location:    Jaipur, Rajasthan, India 🇮🇳
 Core Stacks: MERN · Next.js · React Native / Expo · FastAPI · Python ML / NLP
@@ -157,7 +157,7 @@ Interests:   Scalable Systems · Agentic AI · Speech AI · Reinforcement Learni
           <a href="https://github.com/GovindJangid75/aria_native">
             <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github" />
           </a>
-          <img src="https://img.shields.io/badge/React_Native-Expo_SDK_54-61DAFB?style=for-the-badge&logo=react" />
+          <img src="https://img.shields.io/badge/React_Native-Expo_SDK_54-7C3AED?style=for-the-badge&logo=react" />
           <img src="https://img.shields.io/badge/Gemini_AI-Voice_Brain-8E75FF?style=for-the-badge&logo=google" />
           <img src="https://img.shields.io/badge/Supabase-Auth_%26_DB-3ECF8E?style=for-the-badge&logo=supabase" />
           <img src="https://img.shields.io/badge/Resend-Automated_Email-000000?style=for-the-badge&logo=resend" />
@@ -184,10 +184,10 @@ Interests:   Scalable Systems · Agentic AI · Speech AI · Reinforcement Learni
             <img src="https://img.shields.io/badge/GitHub-Monorepo-181717?style=for-the-badge&logo=github" />
           </a>
           <a href="https://edushieldai.onrender.com/">
-            <img src="https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=121826" />
+            <img src="https://img.shields.io/badge/Live_Demo-Render-EC4899?style=for-the-badge&logo=render&logoColor=white&labelColor=121826" />
           </a>
           <img src="https://img.shields.io/badge/Next.js_15-React_19-000000?style=for-the-badge&logo=next.js" />
-          <img src="https://img.shields.io/badge/FastAPI-Python_Backend-009688?style=for-the-badge&logo=fastapi" />
+          <img src="https://img.shields.io/badge/FastAPI-Python_Backend-7C3AED?style=for-the-badge&logo=fastapi" />
           <img src="https://img.shields.io/badge/ML-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn" />
           <img src="https://img.shields.io/badge/Whisper_AI-Speech_Observer-412991?style=for-the-badge&logo=openai" />
           <img src="https://img.shields.io/badge/PostgreSQL-SQLAlchemy-336791?style=for-the-badge&logo=postgresql" />
@@ -244,8 +244,8 @@ Interests:   Scalable Systems · Agentic AI · Speech AI · Reinforcement Learni
           <a href="https://rl-traffic-signal-controller.vercel.app/">
             <img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=121826" />
           </a>
-          <img src="https://img.shields.io/badge/RL-Q--Learning-008080?style=for-the-badge" />
-          <img src="https://img.shields.io/badge/FastAPI-REST_API-009688?style=for-the-badge&logo=fastapi" />
+          <img src="https://img.shields.io/badge/RL-Q--Learning-7C3AED?style=for-the-badge" />
+          <img src="https://img.shields.io/badge/FastAPI-REST_API-EC4899?style=for-the-badge&logo=fastapi" />
           <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker" />
         </p>
       </div>
@@ -301,23 +301,23 @@ Interests:   Scalable Systems · Agentic AI · Speech AI · Reinforcement Learni
 <div align="center">
 
 <p align="center">
-  <b>🔥 598+ Contributions in 2026</b> &nbsp;·&nbsp; Active Full Stack, AI & Mobile App Developer &nbsp;·&nbsp; Open Source Builder
+  <b>🔥 600+ Contributions in 2026</b> &nbsp;·&nbsp; Active Full Stack, AI & Mobile App Developer &nbsp;·&nbsp; Open Source Builder
 </p>
 
 <table border="0">
   <tr>
     <td>
-      <img height="175" src="https://github-readme-stats.vercel.app/api?username=GovindJangid75&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=06B6D4&text_color=94A3B8" alt="Govind's GitHub Stats"/>
+      <img height="175" src="https://github-readme-stats.vercel.app/api?username=GovindJangid75&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=EC4899&icon_color=A855F7&text_color=94A3B8" alt="Govind's GitHub Stats"/>
     </td>
     <td>
-      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindJangid75&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=94A3B8" alt="Top Languages"/>
+      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindJangid75&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=EC4899&text_color=94A3B8" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GovindJangid75&theme=radical&hide_border=true&background=0d1117&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GovindJangid75&theme=radical&hide_border=true&background=0d1117&ring=EC4899&fire=FF0080&currStreakLabel=EC4899" alt="GitHub Streak" />
 
 </div>
 
@@ -342,7 +342,7 @@ Interests:   Scalable Systems · Agentic AI · Speech AI · Reinforcement Learni
 - [ ] 🚀 Solve 500+ Data Structures & Algorithms problems (LeetCode / GFG)
 - [ ] 🏗️ Master Distributed Systems & Low-Level / High-Level System Design
 - [ ] 🤖 Ship a production AI-powered SaaS product with Agentic Workflows
-- [x] 🌟 Actively contribute to impactful Open Source repositories (598+ contributions in 2026)
+- [x] 🌟 Actively contribute to impactful Open Source repositories (600+ contributions in 2026)
 - [ ] 💼 Secure a high-impact Software Engineering role at a product-first engineering company
 
 ---
@@ -381,6 +381,6 @@ Interests:   Scalable Systems · Agentic AI · Speech AI · Reinforcement Learni
 
 **⭐ If you find any of my repositories helpful, a star is always appreciated!**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:06B6D4"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:A855F7,100:EC4899"/>
 
 </div>
